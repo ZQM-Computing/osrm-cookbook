@@ -35,6 +35,8 @@ Developers who serve routing queries from their own engine.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-extract-prepare` | Extracting and preparing OSM data for routing |
